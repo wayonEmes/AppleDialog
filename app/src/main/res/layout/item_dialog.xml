@@ -1,0 +1,9 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/btn_dialog"
+    android:gravity="center"
+    android:minHeight="40dp"
+    android:text="取消"
+    android:textColor="@color/color_text_blue"
+    android:textSize="14sp" />
